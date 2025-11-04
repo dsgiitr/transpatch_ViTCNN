@@ -18,13 +18,6 @@
 
 ---
 
-## News
-
-* **Accepted at AAAI 2026 Student Abstracts** (official code release).
-* Repo cleaned and standardized for A* conference artifact submission.
-
----
-
 ## Repository Structure
 
 ```
