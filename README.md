@@ -25,16 +25,6 @@
 
 ---
 
-## Paper & Supplement
-
-* **PDF:** `paper/aaai26_transpatch_student_abstract.pdf`
-* **Supplement:** `paper/aaai26_transpatch_supplementary.pdf`
-* **Poster/Slides (optional):** add to `paper/` if desired.
-
-> *Note:* Place the above files in the `paper/` folder and update links if you use different names. A BibTeX entry is provided in [🧾 Citation](#citation).
-
----
-
 ## Repository Structure
 
 ```
