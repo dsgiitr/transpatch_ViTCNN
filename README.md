@@ -191,16 +191,6 @@ This computes **mIoU** and exports tables/plots under `metrics_dir`.
 
 ---
 
-## Assets & Branding
-
-* Put logos under `docs/assets/`:
-
-  * `logo_aaai.png`, `logo_dsg_iiitr.png`, `logo_iitr.png`
-* Put the framework figure at `docs/figs/transpatch_framework.png`.
-* The README uses local paths so it renders on GitHub when assets are committed.
-
----
-
 ## Acknowledgements
 
 * **AAAI** for accepting the student abstract.
