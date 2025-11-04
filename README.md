@@ -1,11 +1,11 @@
 # TransPatch: Universal Adversarial Patch for Cross‑Architecture Transfer in Semantic Segmentation
 
 <p align="center">
-  <img src="docs/assets/logo_aaai.png" alt="AAAI" height="56"/>
+  <img src="docs/assets/aaai.png" alt="AAAI" height="56"/>
   &nbsp;&nbsp;
-  <img src="docs/assets/logo_dsg_iiitr.png" alt="DSG IIITR" height="56"/>
+  <img src="docs/assets/dsg_iiitr.png" alt="DSG IIITR" height="56"/>
   &nbsp;&nbsp;
-  <img src="docs/assets/logo_iitr.png" alt="IIT Roorkee" height="56"/>
+  <img src="docs/assets/logo_iitr.svg" alt="IIT Roorkee" height="56"/>
 </p>
 
 <p align="center">
