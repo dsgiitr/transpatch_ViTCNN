@@ -3,7 +3,7 @@
 <p align="center">
   <img src="docs/assests/aaai.png" alt="AAAI" height="56"/>
   &nbsp;&nbsp;
-  <img src="docs/assests/dsg_iiitr.png" alt="DSG IIITR" height="56"/>
+  <img src="docs/assests/dsg_iitr.png" alt="DSG IIITR" height="56"/>
   &nbsp;&nbsp;
   <img src="docs/assests/logo_iitr.svg" alt="IIT Roorkee" height="56"/>
 </p>
