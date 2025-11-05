@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 # TransPatch: Universal Adversarial Patch for Cross‑Architecture Transfer in Semantic Segmentation
 
 <p align="center">
@@ -195,7 +196,7 @@ This computes **mIoU** and exports tables/plots under `metrics_dir`.
 
 ## License
 
-TBD (recommend **MIT** for academic code; add `LICENSE` and update the badge.)
+This project is licensed under the [MIT License](LICENSE) — see the [LICENSE](LICENSE) file for details.
 
 ---
 
