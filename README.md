@@ -1,4 +1,3 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 # TransPatch: Universal Adversarial Patch for Cross‑Architecture Transfer in Semantic Segmentation
 
 <p align="center">
@@ -11,7 +10,7 @@
 
 <p align="center">
   <a href="https://img.shields.io/badge/AAAI'26-Student%20Abstract%20Accepted-blue"><img src="https://img.shields.io/badge/AAAI'26-Student%20Abstract%20Accepted-blue" alt="AAAI'26 Student Abstract Accepted"/></a>
-  <a href="#license"><img src="https://img.shields.io/badge/license-TBD-lightgrey" alt="License: TBD"/></a>
+  <a href="#license"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
   <a href="#citation"><img src="https://img.shields.io/badge/Cite-TransPatch-green" alt="Cite TransPatch"/></a>
 </p>
 
