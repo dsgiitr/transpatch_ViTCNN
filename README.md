@@ -49,7 +49,7 @@
 
 1. **Sensitive‑region placement** using predictive entropy → place the patch on **high‑uncertainty semantic regions** (e.g., *pole* in Cityscapes).
 2. **Two‑stage training**: **Stage‑1 (ViT‑only)** to destabilize global attention; **Stage‑2 (ViT+CNN ensemble)** with **JS‑divergence mining** and **gradient alignment** for transfer.
-3. **Attention hijack + Priors**: increase attention mass on the patch while keeping it **compact, smooth, and physically realizable** using boundary/frequency/TV constraints.
+3. **Attention hijack + Priors**: increase attention mass on the patch while keeping it **compact, smooth, and physically realizable** by using boundary/frequency/TV constraints.
 4. **EOT** (random scale/rotate/translate) for **physical robustness**.
 
 > See `patch/` (priors) and `trainer/trainer_TranSegPGD_AdvPatch.py` for the full implementation.
