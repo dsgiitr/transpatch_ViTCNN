@@ -35,7 +35,7 @@
 ├─ notebooks/                  # Reproducible runs (Kaggle/Colab)
 │  ├─ adversarial-patch-baseline.ipynb
 │  └─ adv-patch-evaluation-transferability.ipynb
-├─ paper/                      # (Add) PDF, supplement, bib, poster
+├─ paper/                      
 └─ README.md
 ```
 
