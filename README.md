@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://img.shields.io/badge/AAAI'26-Student%20Abstract%20Accepted-blue"><img src="https://img.shields.io/badge/AAAI'26-Student%20Abstract%20Accepted-blue" alt="AAAI'26 Student Abstract Accepted"/></a>
-  <a href="#license"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License: MIT"/></a>
   <a href="#citation"><img src="https://img.shields.io/badge/Cite-TransPatch-green" alt="Cite TransPatch"/></a>
 </p>
 
@@ -195,7 +195,8 @@ This computes **mIoU** and exports tables/plots under `metrics_dir`.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the terms of the **MIT License**.  
+See the [LICENSE](LICENSE) file for full license text.
 
 ---
 
